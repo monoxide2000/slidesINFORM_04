@@ -1,2 +1,2 @@
-# slidesINFORM_04
-Slides for the course "Informática 1"
+# slidesCINVESTAV
+Slides for cinvestav 2020
