@@ -1,2 +1,2 @@
-# slidesCINVESTAV
-Slides for cinvestav 2020
+# slidesINFORM_04
+Slides for Informatica 1
